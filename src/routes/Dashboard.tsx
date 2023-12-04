@@ -15,7 +15,7 @@ const Dashboard = () => {
   return (
     <div>
       <h1>This is dashboard component. Im here cause im authenticated!</h1>
-      <h2>Test your counter app!</h2>
+      <h2>Test your app!</h2>
 
       <Center className="flex flex-col">
         <Title order={1} className="text-[100px]">
